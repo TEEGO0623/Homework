@@ -1,0 +1,25 @@
+Algorithm
+
+
+
+
+step1: Call the picked number as X, if there are no any number go to step
+
+
+
+step2: caculate 2/X 
+      if the result is not integer go to step3
+      otherwise if the result is integer go to step4
+
+
+
+step3: delete the X from the list go to step1
+
+
+
+step4: remove the X and put the X into the new list go to step1
+
+
+
+
+step: count the number of the new list and get the final result
